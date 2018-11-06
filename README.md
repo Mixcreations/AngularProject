@@ -1,0 +1,2 @@
+# iammickwhite
+JavaScript Developer
